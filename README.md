@@ -43,12 +43,18 @@ A modern, responsive NFT marketplace UI built with Flutter. This project demonst
 ## Screenshots
 
 - Onboarding Page:
+
+
   ![Stats Page](screenshots/onboarding.png)
 
 - Home Page:
+
+
   ![Home Page](screenshots/home.png)
 
 - Stats Page:
+
+
   ![Stats Page](screenshots/stats.png)
 
 
