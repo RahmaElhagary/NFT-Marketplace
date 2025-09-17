@@ -16,8 +16,7 @@ A modern, responsive NFT marketplace UI built with Flutter. This project demonst
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/nft_flutter_app.git
-   cd nft_flutter_app
+   git clone https://github.com/RahmaElhagary/NFT-Marketplace
    ```
 
 2. **Install dependencies:**
